@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:0EA5E9,65:2563EB,100:4F46E5&text=Melih%20Yasar&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20%7C%20Building%20Modern%20Web%20Applications&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:0EA5E9,65:2563EB,100:4F46E5&text=Melih%20Yasar&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Software%20Developer%20Apprentice%20%7C%20Application%20Development%20%7C%20Switzerland&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Full--Stack%20Developer-2563EB?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Development-0EA5E9?style=flat-square&logo=codecrafters&logoColor=white" />
-<img src="https://img.shields.io/badge/Web%20Development-0284C7?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Developer%20Apprentice-2563EB?style=flat-square&logo=graduationcap&logoColor=white" />
+<img src="https://img.shields.io/badge/EFZ%20Application%20Development-0EA5E9?style=flat-square&logo=codecrafters&logoColor=white" />
+<img src="https://img.shields.io/badge/Vocational%20Baccalaureate-0284C7?style=flat-square&logo=graduationcap&logoColor=white" />
 <img src="https://img.shields.io/badge/Switzerland-0F172A?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br />
@@ -38,7 +38,7 @@
 
 I'm a Software Developer Apprentice in Switzerland, currently working toward my EFZ in Application Development alongside a vocational baccalaureate.
 
-My main focus is full-stack development, and I enjoy building complete applications from frontend to backend. I'm particularly interested in creating clean, practical, and reliable software while continuously expanding my technical skills and experience.
+During my apprenticeship, I'm building experience across software development, web technologies, databases, APIs, and .NET development. I enjoy applying what I learn to practical projects while continuously improving my programming, problem-solving, and software engineering skills.
 
 ## Tech Stack
 
