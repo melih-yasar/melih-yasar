@@ -40,6 +40,7 @@ I'm a Software Developer Apprentice in Switzerland, currently working toward my 
 
 During my apprenticeship, I'm building experience across software development, web technologies, databases, APIs, and .NET development. I enjoy applying what I learn to practical projects while continuously improving my programming, problem-solving, and software engineering skills.
 
+<!--
 ## Tech Stack
 
 <div align="center">
@@ -62,6 +63,7 @@ During my apprenticeship, I'm building experience across software development, w
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
 
 </div>
+-->
 
 ## Skills
 
