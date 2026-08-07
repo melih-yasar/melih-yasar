@@ -36,9 +36,9 @@
 
 ## About Me
 
-I'm a full-stack developer focused on building modern, reliable, and user-friendly applications.
+I'm a Software Developer Apprentice in Switzerland, currently working toward my EFZ in Application Development alongside a vocational baccalaureate.
 
-I enjoy working across both frontend and backend development, turning ideas into complete products and continuously improving my software engineering skills.
+My main focus is full-stack development, and I enjoy building complete applications from frontend to backend. I'm particularly interested in creating clean, practical, and reliable software while continuously expanding my technical skills and experience.
 
 ## Tech Stack
 
@@ -55,13 +55,24 @@ I enjoy working across both frontend and backend development, turning ideas into
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
 
 </div>
+
+## Skills
+
+### Languages
+C# · Python · JavaScript · HTML · CSS
+
+### Databases & Backend Services
+MySQL · PostgreSQL · Supabase
+
+### Web Development
+Progressive Web Apps (PWA) · REST APIs
 
 ## GitHub Stats
 
