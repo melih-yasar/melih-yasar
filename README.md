@@ -59,7 +59,7 @@ I enjoy working across both frontend and backend development, turning ideas into
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vs" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
 
 </div>
 
