@@ -22,11 +22,11 @@
 <a href="https://YOUR-PORTFOLIO.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+-->
 
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:melih.edu.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
--->
 
 <br />
 
@@ -49,9 +49,10 @@ I enjoy working across both frontend and backend development, turning ideas into
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
-### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+### Backend / .NET
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
 ### Databases
 
