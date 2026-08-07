@@ -12,7 +12,6 @@
 <br />
 <br />
 
-<!-- Replace these links with your own -->
 
 <a href="https://github.com/melih-yasar">
   <img src="https://img.shields.io/badge/GitHub-melih--yasar-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -47,7 +46,7 @@ I enjoy working across both frontend and backend development, turning ideas into
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 
 ### Backend / .NET
@@ -56,11 +55,11 @@ I enjoy working across both frontend and backend development, turning ideas into
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vs" />
 
 </div>
 
