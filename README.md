@@ -67,13 +67,47 @@ My main focus is full-stack development, and I enjoy building complete applicati
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,python,html,css,js,mysql,postgres,supabase" />
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cs,python,js,html,css" />
+
+<br />
+
+### .NET & Web Development
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Blazor-WebAssembly-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/PWA-Progressive%20Web%20Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+
+<br />
+<br />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker" />
+
+<br />
+<br />
+
+### Core Development Skills
+
+<img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-Database%20Design-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/HTTP-Web%20Fundamentals-005C84?style=flat-square" />
+<img src="https://img.shields.io/badge/Testing-Software%20Testing-6DB33F?style=flat-square" />
+<img src="https://img.shields.io/badge/UML-Software%20Modelling-7C3AED?style=flat-square" />
 
 </div>
 
@@ -94,15 +128,6 @@ My main focus is full-stack development, and I enjoy building complete applicati
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=melih-yasar&bg_color=0D1117&color=C9D1D9&line=2563EB&point=38BDF8&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
-
-## Current Focus
-
-* Full-stack web development
-* Building practical projects
-* Improving software architecture and clean code
-* Learning new technologies and development workflows
-
-<div align="center">
 
 ### Thanks for visiting
 
