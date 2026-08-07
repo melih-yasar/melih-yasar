@@ -65,14 +65,17 @@ My main focus is full-stack development, and I enjoy building complete applicati
 
 ## Skills
 
-### Languages
-C# · Python · JavaScript · HTML · CSS
+<div align="center">
 
-### Databases & Backend Services
-MySQL · PostgreSQL · Supabase
+<img src="https://skillicons.dev/icons?i=cs,python,html,css,js,mysql,postgres,supabase" />
 
-### Web Development
-Progressive Web Apps (PWA) · REST APIs
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+</div>
 
 ## GitHub Stats
 
