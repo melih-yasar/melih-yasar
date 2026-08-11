@@ -113,6 +113,7 @@ During my apprenticeship, I'm building experience across software development, w
 
 </div>
 
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -122,6 +123,7 @@ During my apprenticeship, I'm building experience across software development, w
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melih-yasar&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
+-->
 
 ## Contribution Activity
 
