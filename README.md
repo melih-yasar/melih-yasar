@@ -131,8 +131,6 @@ During my apprenticeship, I'm building experience across software development, w
 
 </div>
 
-### Thanks for visiting
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:0EA5E9" />
 
 </div>
