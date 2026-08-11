@@ -63,7 +63,6 @@ During my apprenticeship, I'm building experience across software development, w
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
 
 </div>
--->
 
 ## Skills
 
@@ -112,6 +111,7 @@ During my apprenticeship, I'm building experience across software development, w
 <img src="https://img.shields.io/badge/UML-Software%20Modelling-7C3AED?style=flat-square" />
 
 </div>
+-->
 
 <!--
 ## GitHub Stats
